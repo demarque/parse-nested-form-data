@@ -5,8 +5,6 @@
  * @author Christian Schurr <chris@schurr.dev>
  */
 
-import {File} from '@remix-run/web-file'
-
 /**
  * Thrown when a path is used multiple times or has missmatching path parts.
  *
